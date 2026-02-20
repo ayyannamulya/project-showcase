@@ -170,13 +170,6 @@ I'm currently open to:
 - Technical consulting
 - Open source collaborations
 
-## 📝 Blog & Articles
-
-[Optional: Link to technical articles you've written]
-- "Building Secure Authentication Systems with JWT"
-- "Implementing Rate Limiting in Node.js Applications"
-- "Best Practices for Full-Stack Security"
-
 ---
 
 ⭐ **Note**: All projects in this repository are showcase versions. Full source code with proprietary features is kept private. Screenshots, documentation, and code samples are provided to demonstrate technical capabilities.
