@@ -130,22 +130,6 @@ A comprehensive collection of full-stack applications showcasing expertise in mo
 - 🎯 Followed SOLID principles and clean code practices
 - 🔄 Implemented CI/CD pipelines for automated testing and deployment
 
-## 📂 Project Categories
-
-### 🛒 E-Commerce & Payments
-Projects involving online transactions, payment processing, and inventory management
-
-### 📊 Dashboards & Analytics
-Data visualization and real-time monitoring systems
-
-### 💬 Communication & Social
-Real-time messaging, video calls, and social platforms
-
-### 🏥 Enterprise & Healthcare
-HIPAA-compliant and enterprise-grade applications
-
-### 🔧 Developer Tools & APIs
-Backend services, API gateways, and development utilities
 
 ## 📫 Let's Connect
 
