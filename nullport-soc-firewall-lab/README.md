@@ -333,22 +333,6 @@ Test coverage spans:
 
 ---
 
-## Build Timeline
-
-This project was built in 7 consecutive days:
-
-| Day | Deliverable |
-|---|---|
-| 1 | Monorepo structure, TypeScript config, Drizzle schema, Railway connection, database migration |
-| 2 | Firewall rule engine, priority matching, tarpit, dynamic rules, REST API, 14 unit tests |
-| 3 | `POST /traffic` ingestion, behavior window aggregation, Python attack simulator with 5 profiles |
-| 4 | Python FastAPI detection engine, entropy/frequency/persistence scoring, attacker profiling, alert creation |
-| 5 | Adaptive response engine, automatic containment decisions, manual override endpoints |
-| 6 | SOC alert lifecycle API, attacker profile endpoints, live metrics dashboard |
-| 7 | Isolation Forest ML layer, cron jobs, whitelist table, performance indexes, production hardening |
-
----
-
 ## License
 
 MIT
