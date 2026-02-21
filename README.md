@@ -28,12 +28,6 @@ A comprehensive collection of full-stack applications showcasing expertise in mo
 - Svelte & SvelteKit
 - TypeScript for type-safe development
 
-**UI/UX:**
-- Tailwind CSS, Bootstrap, Material-UI
-- Responsive Design & Mobile-First approach
-- CSS-in-JS (Styled Components, Emotion)
-- Accessibility (WCAG 2.1 compliance)
-
 **State Management:**
 - Redux, Vuex, NgRx
 - React Query, SWR
