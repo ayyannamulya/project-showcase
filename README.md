@@ -134,7 +134,7 @@ A comprehensive collection of full-stack applications showcasing expertise in mo
 ## 📫 Let's Connect
 
 - **Email**: your.email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/noviyartimulyadi)
 - **Portfolio Website**: [yourwebsite.com](https://yourwebsite.com)
 - **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle)
 - **Dev.to**: [dev.to/yourprofile](https://dev.to/yourprofile)
